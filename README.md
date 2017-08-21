@@ -1,2 +1,2 @@
 # CNV-Call-Visualizer
-A simple JavaFx app that generates displays fake snip array data.
+A simple JavaFx app that generates and displays fake SNP array data.
